@@ -2,11 +2,11 @@
 
 ![This is an image](ic_launcher.png)
 
-Last Updated: 06/27/2023
+Last Updated: 17/08/2023
 
 # Privacy Policy for Mobile Application
 
-This privacy policy governs your use of the software application ThermoVisual Motion Detector for mobile devices that was developed by Mobile Toys & Tools. The application detects objects in motion by using FLIR ONE thermal camera. The application raises alarm and plots it on the screen optionally if there is a motion detected. The application can use both the thermal and visual picture obtained by FLIR ONE therefore runs day and night without any need to visible light.
+This privacy policy governs your use of the software application Baby Monitor for FLIR ONE for mobile devices that was developed by Mobile Toys & Tools. The application monitors your baby during asleep even at night by using FLIR ONE thermal camera. The application raises alarm if the baby is out of Region of Interest defined by you. The application uses the thermal picture obtained by infrared thermal camera apparatus therefore runs day and night without any need to visible light.
 
 # What information does the Application obtain and how is it used?
 ## Camera Information
